@@ -4,9 +4,20 @@ A Full Stack Web developer🎯 and designer🌈 from Bangladesh.
 
 # Skills and Experience :
 - ▶ HTML 
-- CSS 
-- BOOTSTRAP
-- TAILWIND / MATERIAL UI  / REACT / JS / NODE / MONGODB / EXPRESS / REDUX / FIREBASE / HEROKU
+- ▶ CSS 
+- ▶ BOOTSTRAP
+- ▶ TAILWIND 
+- ▶ MATERIAL UI
+- ▶ REACT 
+- ▶ JS 
+- ▶ NODE
+- ▶ MONGODB
+- ▶ EXPRESS
+- ▶ EXPRESS
+- ▶ EXPRESS
+- ▶ REDUX
+- ▶ FIREBASE
+- ▶ HEROKU
 
 - 🔭 I’m currently working on a full stack project 
 - 🌱 I’m currently learning React Native 
