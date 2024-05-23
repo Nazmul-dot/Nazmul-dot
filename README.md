@@ -4,18 +4,17 @@ A Full Stack Web developer🎯 and designer🌈 from Bangladesh.
 
 # Skills and Experience :
 - ▶ C++ 
-- ▶ Java 
+- ▶ DSA
 - ▶ OOP
-- ▶ Spring Boot
-- ▶ C#
+- ▶ SQL
 - ▶ HTML 
 - ▶ CSS 
 - ▶ BOOTSTRAP
 - ▶ TAILWIND 
 - ▶ MATERIAL UI
-- ▶ REACT JS
-- ▶ NODE JS
-- ▶ EXPRESS JS
+- ▶ REACT.JS
+- ▶ NODE.JS
+- ▶ EXPRESS.JS
 - ▶ MONGODB
 - ▶ REDUX
 - ▶ FIREBASE
