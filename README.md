@@ -3,7 +3,9 @@
 A Full Stack Web developer🎯 and designer🌈 from Bangladesh.
 
 # Skills and Experience :
-- ▶ C++ 
+- ▶ C++
+- ▶ Java
+- ▶ Spring Boot
 - ▶ DSA
 - ▶ OOP
 - ▶ SQL
